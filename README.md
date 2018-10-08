@@ -25,3 +25,4 @@ gatsby new gatsby-site https://github.com/praagyajoshi/gatsby-starter-2column-po
 - Add your own projects by modifying `ProjectsSection/index.js`
 - Configure site meta data and add your GA tracking ID in `gatsby-config.js`
 - Favicon, images and base SCSS are located in `assets/`
+# Very Vague
